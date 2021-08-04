@@ -1,0 +1,8 @@
+---
+applications:
+- name: myapp
+  random-route: true
+  path: .
+  memory: 128M
+  org: test-org
+  space: dev

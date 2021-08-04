@@ -1,0 +1,4 @@
+{"data": {"edition":"cloud",
+       "memory":30,
+       "systempassword":"Initial1",
+       "whitelistIPs":["0.0.0.0/0"]}}
